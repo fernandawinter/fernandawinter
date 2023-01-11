@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @fernandawinter
 - 👀 I’m interested in front-end
-- 🌱 I’m currently learning Javascript, React, Node and Next.js
+- 🌱 I’m currently learning Javascript, React, Typescript, HTML and CSS

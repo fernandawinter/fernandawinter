@@ -2,3 +2,4 @@
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning Javascript, React, Typescript, HTML and CSS
 - 📚 Clean Code
+- ✅ TDD practitioner

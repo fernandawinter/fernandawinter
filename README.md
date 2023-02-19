@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @fernandawinter. I'm a software developer.
 - 👀 I’m interested in front-end
 - 🌱 I’m currently learning Javascript, React, Typescript, HTML and CSS
-- 📚 Clean Code, Refactoring, Clean Architecture, The Clean Coder, Domain-Driven Design
+- 📚 Clean Code, Refactoring, Clean Architecture, The Clean Coder, Domain-Driven Design, Clean Agile
 - ✅ TDD practitioner

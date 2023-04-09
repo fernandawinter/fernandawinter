@@ -3,4 +3,4 @@
 - 🌱 I’m currently learning Javascript, React, Typescript, HTML and CSS
 - 📚 Clean Code, Refactoring, Clean Architecture, The Clean Coder, Domain-Driven Design, Clean Agile, Grokking Algorithms, Learning JavaScript Data Structures and Algorithms, Refactoring: Improving the Design of Existing Code, JavaScript patterns, Becoming a Better Programmer, The Pragmatic Programmer, Cracking the Coding Interview, Introduction to Algorithms, JavaScript: The Definitive Guide, Scrum, Learning Node 
 - ✅ TDD practitioner
-- ✅ Agile: Kanban, Scrum, XP, 
+- ✅ Agile: Kanban, Scrum, XP

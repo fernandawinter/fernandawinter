@@ -5,3 +5,4 @@
 - ✅ TDD practitioner
 - 🗣️Feedback practitioner
 - ✅ Agile: Kanban, Scrum, XP
+- 🚨 Tests
